@@ -1,5 +1,5 @@
 - 👋 Olá, eu sou Fabio Lima
-- 👀 Tenho interesse em progamação em Desenvolvimento Web
+- 👀 Tenho interesse em Desenvolvimento Web e programação em linguagem python
 - 🌱 Atualmente estou cursando Análise e Desenvolmento de Sistemas
 - 📫 Endereço de E-mail: silva.l3@hotmail.com
 
