@@ -1,7 +1,7 @@
 - 👋 Olá, eu sou Fabio Lima
 - 👀 Tenho interesse em Desenvolvimento de software
 - 🌱 Atualmente estou cursando Análise e Desenvolmento de Sistemas
-- 📫 Endereço de E-mail: silva.l3@hotmail.com
+- 📫 Endereço de E-mail: fsdelima.7@gmail.com
 
 Tecnologias que utilizo:
 
