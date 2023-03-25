@@ -1,5 +1,5 @@
 - 👋 Olá, eu sou Fabio Lima
-- 👀 Tenho interesse em desenvolvimento web e banco de dados
+- 👀 Tenho interesse em Desenvolvimento de software
 - 🌱 Atualmente estou cursando Análise e Desenvolmento de Sistemas
 - 📫 Endereço de E-mail: silva.l3@hotmail.com
 
