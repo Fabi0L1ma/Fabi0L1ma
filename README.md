@@ -1,7 +1,7 @@
-- 👋 Olá, eu sou Fabio Lima
-- 👀 Tenho interesse em Desenvolvimento de software
-- 🌱 Atualmente estou cursando: Análise e Desenvolmento de Sistemas (Centro Universitário Estácio da Bahia - Estácio FIB) e Técnico em Desenvolvimento de Sitemas (Serviço Nacional de Aprendizagem Industrial - SENAI).
-- 📫 Endereço de E-mail: fsdelima.7@gmail.com
+- 👋 Olá, eu sou Fabio Lima ;
+- 👀 Tenho interesse em Desenvolvimento de software ;
+- 🌱 Atualmente estou cursando: Análise e Desenvolmento de Sistemas (Centro Universitário Estácio da Bahia - Estácio FIB) e Técnico em Desenvolvimento de Sitemas (Serviço Nacional de Aprendizagem Industrial - SENAI) ;
+- 📫 Endereço de E-mail: fsdelima.7@gmail.com ;
 
 Tecnologias que utilizo:
 
